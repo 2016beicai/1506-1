@@ -14,5 +14,6 @@ Running `grunt test` will run the unit tests with karma.
 #中文说明
 
 ##安装说明
-执行npm install安装需要的组件
-执行bower install 安装需要的前端库
+执行'npm install'安装需要的组件.
+
+执行bower install 安装需要的前端库.
